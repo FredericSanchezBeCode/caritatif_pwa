@@ -1,1 +1,2 @@
-# caritatif_pwa
+# caritatif
+Exercice site caritatif
